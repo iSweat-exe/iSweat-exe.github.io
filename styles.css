@@ -1,0 +1,84 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h1 {
+    color: black;
+    font-size: 75px;
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+
+body {
+    background-color: #c6c6c6;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.PremiereImage {
+    height: 525px;
+    width: 700px;  
+    
+}
+ /*! class du message Warning pour l'aide des admin */
+.Warning {
+    color: red;
+    font-size: 24px;
+    text-align: center;
+}
+
+.Discord {
+    font-size: 24px;
+    text-align: center;
+    background-position: center;
+    color: black;
+}
+.presantation {
+    text-align: center;
+    font-size: 24px;
+}
+
+.Aide {
+    font-size: 24px;
+    text-align: center;
+}
+
+.Imageminecraft {
+    text-align: center;
+    margin: auto;
+    background-position: center;
+}
+
+.TextDiscord {
+    color: blue;
+}
+
+header {
+    /*! Ne pas supprimer (haut de la page) */
+
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.IP {
+    font-size: 24px;
+}
+
+.IpCopiable {
+    font-size: 24px;
+    text-align: center;
+}
+
+.ipcopiabletext {
+    color: blue;
+}
